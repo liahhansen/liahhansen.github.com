@@ -11,4 +11,7 @@ To open a bundled gem, set $EDITOR or $BUNDLER_EDITOR
 
 To get rid of this error I added the following to .profile: {% highlight bash %} export BUNDLER_EDITOR=mate{% endhighlight %}
 
-This causes TextMate to open the gem of choice when I call: {% highlight bash %} bundle open unicorn {% endhighlight %}.
+This causes TextMate to open the gem of choice when I call: 
+{% highlight bash %} 
+bundle open unicorn 
+{% endhighlight %}

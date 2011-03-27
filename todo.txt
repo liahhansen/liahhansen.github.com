@@ -1,2 +1,4 @@
 make beep@liahhansen.com
 rss image
+feedburner
+make sure highlighting in bundle config post works at end

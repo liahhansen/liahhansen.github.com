@@ -16,7 +16,9 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-image: url("/images/bg.gif");
+  background-repeat:no-repeat;
+  background-color: #2EBF5C;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -35,7 +37,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #FF9900;
 }
 
 a:hover {
@@ -43,7 +45,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #cc3366;
 }
 
 table {
@@ -67,8 +69,8 @@ ul.posts {
   }
 
   ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
+    color: #666;
+    font-family: helvetica, arial;
     font-size: 80%;
   }
 
@@ -82,8 +84,12 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   width: 40em;
-  margin: 3em auto 2em auto;
+  margin: 3em 5em;
   line-height: 1.5em;
+  background-color:white;
+  padding:1em;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px; 
 }
 
 .title {
@@ -93,16 +99,16 @@ ul.posts {
 }
 
   .site .title a {
-    color: #a00;
+    color: #009999;
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: black;
+    color: #333;
   }
 
   .site .title a.extra {
-    color: #aaa;
+    color: #74B8B8;
     text-decoration: none;
     margin-left: 1em;
   }
@@ -129,12 +135,12 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: #cc3366;
       }
 
     .site .footer .rss {
       margin-top: 1.1em;
-      margin-right: -.2em;
+      margin-right: 1em;
       float: right;
     }
 
