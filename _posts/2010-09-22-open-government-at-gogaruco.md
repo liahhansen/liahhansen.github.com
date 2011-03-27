@@ -20,19 +20,21 @@ Innovative websites written in Rails and based off of open government data:
 * http://www.thomas.gov/
 * http://www.govtrack.us/ -- scrapes thomas
 * http://www.opencongress.org/ -- built off of govtrack.us, rails app
--  inspired congress to publish votes in xml
--  senate also puts out info in xml
--  no where near all 50 states give out info
+  * inspired congress to publish votes in xml
+  * senate also puts out info in xml
+  * no where near all 50 states give out info
 * sunlight is trying to make state apis the norm
--  mongo db is necessary for it - like some states have only one house, not two
+  * mongo db is necessary for it - like some states have only one house, not two
 
 Federal Register - one of the more important publications of the government
-- rulemaking
-- public notices
-- chances to comment
-- published by the office of the public register
+
+* rulemaking
+* public notices
+* chances to comment
+* published by the office of the public register
 
 http://www.govpulse.us/ was one result of a contest - open source rails app on github, EC2
+
 * it shows what is going on in your area
 * government contacted them and contracted the develpers
 * ditched some red tape
@@ -45,6 +47,7 @@ http://www.govpulse.us/ was one result of a contest - open source rails app on g
 Gov is seeing devs as their customers
 
 America
+
 * first country to have a freedom of information act
 * all govs info is in the public domain
 * we have the freedom to set amazing examples - what we do matters - talk to other people
