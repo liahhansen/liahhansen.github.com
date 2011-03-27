@@ -6,7 +6,7 @@ title: Interesting Questions Students Asked Me
 ================
 
 *  How Ruby language is structured...Kernal is mixed into Object.  What impact does that have (sleep, method_missing, puts)?  What about Enumerable and the classes it is mixed into...they all have '#each' but how does it work that the methods defined in Enumerable can work for all the different classes?
-* Threads in Ruby.
+* Threads in Ruby
 * Scaling in Ruby
 * DSLs and metaprogramming
 * Connection to the database...how is this done internally...does it have to do with IO
