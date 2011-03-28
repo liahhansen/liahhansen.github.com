@@ -53,6 +53,12 @@ table {
   font: 100%;
 }
 
+blockquote {
+  margin: 1em 20px;
+  padding-left: 50px;
+  background: transparent url(/images/quote.gif) no-repeat; 
+  font-style:italic;
+}
 /*****************************************************************************/
 /*
 /* Home
@@ -84,7 +90,7 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   width: 40em;
-  margin: 3em 5em;
+  margin: 3em 5em 3em;
   line-height: 1.5em;
   background-color:white;
   padding:1em;
@@ -202,3 +208,7 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+.dsq-subscribe-email, .dsq-subscribe-rss, .dsq-brlink {
+  display:none;
+}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SICP 1 - Functional Programming, Applicative Order, Normal Order
+title: Scheme - Functional Programming, Applicative Order, Normal Order
 ---
 {{ page.title }}
 ================
