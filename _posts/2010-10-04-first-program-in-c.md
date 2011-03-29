@@ -5,7 +5,7 @@ title: First Program in C
 {{ page.title }}
 ================
 
-Now that I've got Ruby and Rails fairly well learned and practiced, I decided it was time to start working towards my long term goal of blending my programming skills with my love of art.  Here is my first baby step towards learning C:
+Now that I've got Ruby and Rails fairly well learned and practiced, I decided it was time to start working towards learning some lower level languages.  Here is my first baby step towards learning C:
 
 {% highlight bash %}
 touch foo.c
